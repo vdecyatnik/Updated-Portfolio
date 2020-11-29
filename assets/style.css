@@ -1,24 +1,44 @@
-.footerBottom{
-    display:flex;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@600&display=swap');
+
+
+
+
+
+
+
+.footerBottom {
+    display: flex;
     justify-content: space-evenly;
     align-items: center;
 }
 
-.navbar{
-    background-color:rgb(1, 79, 134); 
+.navbar {
+    background-color: rgb(1, 79, 134);
 }
 
-
-.jumbotron{
-    background-color:rgb(42, 111, 151,.73);
+.jumbotron {
+    background-color: rgb(1, 42, 74);
 }
-
-
 
 /* .container1{
     background-color:rgb(44, 125, 160, .73);
 } */
 
-.text-center{
-    font-size:35px;
+.text-center {
+    font-size: 35px;
+}
+
+button {
+    background-color: rgb(1, 42, 74);
+    border: white;
+    height: 35px;
+    color: white;
+    border-radius: 10px;
+}
+
+h1,h2{
+font-family:'Sansita Swashed', cursive;
+color:white;
 }
