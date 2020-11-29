@@ -3,5 +3,18 @@
     justify-content: space-evenly;
 }
 
+.navbar{
+    background-color:rgb(1, 79, 134); 
+}
 
+
+.jumbotron{
+    background-color:rgb(42, 111, 151,.73);
+}
+
+
+
+/* .container1{
+    background-color:rgb(44, 125, 160, .73);
+} */
 
