@@ -1,6 +1,7 @@
 .footerBottom{
     display:flex;
     justify-content: space-evenly;
+    align-items: center;
 }
 
 .navbar{
@@ -18,3 +19,6 @@
     background-color:rgb(44, 125, 160, .73);
 } */
 
+.text-center{
+    font-size:35px;
+}
