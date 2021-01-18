@@ -1,66 +1,51 @@
 
-
-@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@600&display=swap');
-
-
-
-
-
+@import url('https://fonts.googleapis.com/css2?family=Overlock:wght@700&display=swap');
 
 
 .footerBottom {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
 
-.navbar {
-    background-color: rgb(1, 79, 134);
-}
+ .navbar {
+  background:  rgb(255, 255, 255);
 
-.jumbotron {
-    background-color: rgb(1, 42, 74);
-}
+ }
 
-/* .container1{
-    background-color:rgb(44, 125, 160, .73);
-} */
 
 .text-center {
-    font-size: 35px;
+  font-size: 35px;
 }
 
 button {
-    background-color: rgb(1, 42, 74);
-    border: white;
-    height: 35px;
-    color: white;
-    border-radius: 10px;
+  background-color: rgb(1, 42, 74);
+  border: white;
+  height: 35px;
+  color: white;
+  border-radius: 10px;
 }
 
-h1,h2{
-font-family:'Sansita Swashed', cursive;
-color:white;
+h1,
+h2, a {
+  font-family: "Overlock", cursive;
+  color: rgb(0, 0, 0);
 }
 
-
-.card{
-    border: 1px solid rgb(1, 42, 74);
-  
+.card {
+  border: 1px solid rgb(1, 42, 74);
+  color:rgba(142, 161, 187, 0.5); 
 }
 
-.val{
-    height:280px;
+.val {
+  height: 280px;
 }
 
-.photo{
-   
-    height:5px;
-   
-
+.photo {
+  height: 5px;
 }
 
-.mr-3{
-    height:100px;
-    width:150px;
+.mr-3 {
+  height: 100px;
+  width: 150px;
 }
