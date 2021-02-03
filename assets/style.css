@@ -42,7 +42,7 @@ z-index:2;
 
 
 h1,
- a {
+ a, button{
   font-family: "Overlock", cursive;
   color: rgb(0, 0, 0);
 }
@@ -55,6 +55,8 @@ h1,
 }
 
 
-hr.style2 {
-	border-top: 3px double #8c8b8b;
+button:hover{
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
 }
